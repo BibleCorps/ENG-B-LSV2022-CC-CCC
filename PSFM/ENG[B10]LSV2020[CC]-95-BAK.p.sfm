@@ -1,9 +1,10 @@
-\id BAK - 
+\id BAK -
 \rem Covenant of the CCC
 \h Covenant
 \h0 ~
 \h1 ~
 \toc1 Covenant of the CCC
+\toca1 Covenant of the CCC
 \toc2 Covenant
 \toc3 Covanant
 \ib3
@@ -76,6 +77,7 @@
 \h0 ~
 \h1 ~
 \toc1 Convictions of the CCC
+\toca1 Convictions of the CCC
 \toc2 Convictions
 \toc3 Convictions
 \ib3
@@ -114,6 +116,7 @@
 \h0 Chronological Order of
 \h1 The Books of the Bible.
 \toc1 Chronological Order of the Books of the Bible.
+\toca1 Chronological Order of the Books of the Bible.
 \toc2 Chronological Order
 \toc3 Timeline
 \ib3
@@ -173,7 +176,7 @@
 \tr \thc4 397 \thc4 Malachi.
 \b
 \rem Table |name="Timeline"|cols="3"|
-\tr \thc6 A.D. \thc7 anno domini \thc6 Year of our LORD
+\tr \thc6 A.D. \thc7 anno domini \thc6 Year of our Lord
 \tr \thc4 38 \thc4 Matthew \thc4 Judea
 \tr \thc4 52 \thc4 Galatians \thc4 Corinth or Macedonia
 \tr \thc4 52 \thc4 1st Thessalonians \thc4 Corinth
@@ -209,6 +212,7 @@
 \h0 Bible Terms
 \h1 Bible Terms
 \toc1 Explanation of 100 Bible Terms.
+\toca1 Explanation of 100 Bible Terms.
 \toc2 Bible Terms.
 \toc3 Bible Terms.
 \ib3
