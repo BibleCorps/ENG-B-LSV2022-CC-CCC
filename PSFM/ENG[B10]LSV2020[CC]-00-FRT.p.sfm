@@ -7,14 +7,14 @@
 \ib4
 \imt4 Literal Standard Version (LSV)
 \ib7
-\pc \fig LSV-Logo(75pt x 28pt)|Figs/LSV-Logo.png|col||||\fig*
+\imt2 \fig LSV-Logo(75pt x 28pt)|Figs/LSV-Logo.png|col||||\fig*
 \ib7
 \imt7 Covenant Press
 \imt9 www.lsvbible.com
 \periph Publication Data
 \h0 Rights
 \toc3 Rights
-\ib5
+\ib
 \imt7 Literal Standard Version of the Holy Bible
 \iq Copyright © 2020 by Covenant Press and the Covenant Christian Coalition.
 \ib
@@ -22,7 +22,7 @@
 \ip1 Covenant Press requests that the text remain unaltered in the English language and that translations based on the LSV maintain the same spirit of faithfulness to the original Hebrew, Aramaic, and Greek text. Attribution of minor citations for personal or non-commercial use can be provided as simply “LSV” or “Literal Standard Version.” Citations for commercial use, or distribution of the entire LSV Bible or entire book(s) of the LSV Bible, must be fully attributed and include both “Literal Standard Version (LSV)” and the name of our organization. Covenant Press is soliciting partnerships with Bible publishers that are interested in the LSV project. For queries about partnering with us, please email the translation team at covenantpress@ccc.one. To learn more, visit LSVBible.com.
 \ip1 The purpose behind the LSV is to provide readers with a modern, easy-to-read, literal, and accurate translation of the Bible that is free to read, distribute, and translate from. We pray that God will use the LSV to illuminate the hearts and minds of multitudes with the good news that His Son Jesus Christ came in the flesh, died for our sins as a substitutionary sacrifice, rose bodily from the dead, and is coming back again.
 \ib
-\pc \fig CC-By-SA(94pt x 33pt)|Figs/cc-by-sa-4.0.png|col||||\fig*
+\imt2 \fig CC-By-SA(94pt x 33pt)|Figs/cc-by-sa-4.0.png|col||||\fig*
 \ib
 \imt7 Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 \im0 You are free to:
@@ -68,52 +68,52 @@
 \ib5
 \imt3 Key Scriptures
 \rem Table |name="KeyScriptures"|cols="2"|
-\tr \thc4 God, Creator and source of all things. \thc4 Genesis 1:1
-\tr \thc4 Man created in the image of God. \thc4 Genesis 1:27
-\tr \thc4 Man given dominion over the earth . \thc4 Genesis 1:28
-\tr \thc4 God completes creation in six days. \thc4 Genesis 1:31–2:1 (cf. Exodus 20:11)
-\tr \thc4 The seventh day is the Sabbath. \thc4 Genesis 2:2
-\tr \thc4 Marriage, the union of one man and one woman. \thc4 Genesis 2:24
-\tr \thc4 Man disobeys God’s single commandment and falls into sin. \thc4 Genesis 3 (cf. Romans 5:12)
-\tr \thc4 God promises a human Redeemer. \thc4 Genesis 3:15
+\tr \thc4 God, Creator and source of all things. \thc4 Genesis~1:1
+\tr \thc4 Man created in the image of God. \thc4 Genesis~1:27
+\tr \thc4 Man given dominion over the earth . \thc4 Genesis~1:28
+\tr \thc4 God completes creation in six days. \thc4 Genesis~1:31–2:1 (cf. Exodus~20:11)
+\tr \thc4 The seventh day is the Sabbath. \thc4 Genesis~2:2
+\tr \thc4 Marriage, the union of one man and one woman. \thc4 Genesis~2:24
+\tr \thc4 Man disobeys God’s single commandment and falls into sin. \thc4 Genesis 3 (cf. Romans~5:12)
+\tr \thc4 God promises a human Redeemer. \thc4 Genesis~3:15
 \tr \thc4 God destroys the ancient, evil world with a flood. \thc4 Genesis 6–7
 \tr \thc4 The earth is replenished through Noah and his family. \thc4 Genesis 8–10
 \tr \thc4 God scatters mankind and creates different languages. \thc4 Genesis 11
-\tr \thc4 Abraham, the father of Israel . \thc4 Genesis 12:1-4
-\tr \thc4 Abraham’s faith counted as righteousness. \thc4 Genesis 15:6
-\tr \thc4 God’s covenant established with Isaac and not Ishmael. \thc4 Genesis 17:18-19
-\tr \thc4 Isaac’s son Jacob becomes Israel. \thc4 Genesis 32:27-28
-\tr \thc4 God reveals that His Name is YHWH. \thc4 Exodus 3:13-15
-\tr \thc4 The Israelites escape slavery in Egypt and receive the Law. \thc4 Exodus 12:31-42; 19–24
-\tr \thc4 God gives the Holy Land to the Israelites. \thc4 Joshua 1:1-6
+\tr \thc4 Abraham, the father of Israel . \thc4 Genesis~12:1-4
+\tr \thc4 Abraham’s faith counted as righteousness. \thc4 Genesis~15:6
+\tr \thc4 God’s covenant established with Isaac and not Ishmael. \thc4 Genesis~17:18-19
+\tr \thc4 Isaac’s son Jacob becomes Israel. \thc4 Genesis~32:27-28
+\tr \thc4 God reveals that His Name is YHWH. \thc4 Exodus~3:13-15
+\tr \thc4 The Israelites escape slavery in Egypt and receive the Law. \thc4 Exodus~12:31-42; 19–24
+\tr \thc4 God gives the Holy Land to the Israelites. \thc4 Joshua~1:1-6
 \tr \thc4 God’s own Son to rule all nations from Zion. \thc4 Psalm 2
 \tr \thc4 The coming Redeemer will die as an atoning sacrifice for our sins. \thc4 Isaiah 53
-\tr \thc4 Jesus the Messiah, the Son of God, born of a virgin, is revealed. \thc4 Matthew 1:1–2:6; Luke 1:26–2:52
-\tr \thc4 Jesus reveals that salvation is only found in Him. \thc4 John 14:6 (cf. Acts 4:12)
-\tr \thc4 Jesus gives His life as an atoning sacrifice for our sins. \thc4 Matthew 27:11-56; John 18:28-37
-\tr \thc4 Jesus is buried in a rich man’s tomb. \thc4 Matthew 27:57-61; John 19:38-42
-\tr \thc4 Jesus is resurrected from the dead and appears to many. \thc4 Matthew 28:1-15; Luke 24:1-49; John 20
-\tr \thc4 Jesus reveals the Trinity. \thc4 Matthew 28:19 (cf. Luke 3:22; John 14:26; John 15:26; Acts 2:33; II Corintians 13:14)
-\tr \thc4 Jesus ascends into Heaven. \thc4 Mark 16:19; Luke 24:50-53; Acts 1:6-9
-\tr \thc4 Jesus will return to the same place He left. \thc4 Acts 1:10-11 (cf. Zechariah 14:1-5)
-\tr \thc4 The Holy Spirit is given to the Church on Pentecost. \thc4 Acts 2:1-4 (cf. Acts 1:1-5)
-\tr \thc4 The Early Church is filled with zeal and love for one another. \thc4 Acts 2:42-47
-\tr \thc4 The Church is the mystical Body of Christ, made of many members. \thc4 I Corinthians 12:12-27
-\tr \thc4 The Gospel explicitly defined. \thc4 I Corinthians 15:1-8
-\tr \thc4 Believers will be resurrected to inherit eternal life. \thc4 I Corinthians 15:50-58 (cf. John 3:1-18; John 3:36; John 5:24)
-\tr \thc4 Everyone is wicked and in need of Jesus. \thc4 Romans 3:9-20, Romans 3:23; Isaiah 64:6; James 3:2
-\tr \thc4 Salvation is through faith alone. \thc4 Romans 3:21–5:21; Galatians 2:15–5:6; Ephesians 2:8-9
-\tr \thc4 Believers called to live holy lives. \thc4 I Thessalonians 4:1-12
-\tr \thc4 Believers will be taken to Heaven by Jesus. \thc4 John 14:1-1-4; I Thessalonians 4:16-18
-\tr \thc4 Jesus defeats the Devil and rules all nations. \thc4 Revelation 12:7-10; 19:11-16
-\tr \thc4 Jesus judges all men and unbelievers are destroyed. \thc4 Revelation 20:11-15
-\tr \thc4 A new heaven, new earth, and New Jerusalem. \thc4 Revelation 21:1-27 (cf. Isaiah 65:17; II Peter 3:13)
+\tr \thc4 Jesus the Messiah, the Son of God, born of a virgin, is revealed. \thc4 Matthew~1:1–2:6; Luke~1:26–2:52
+\tr \thc4 Jesus reveals that salvation is only found in Him. \thc4 John~14:6 (cf. Acts~4:12)
+\tr \thc4 Jesus gives His life as an atoning sacrifice for our sins. \thc4 Matthew~27:11-56; John~18:28-37
+\tr \thc4 Jesus is buried in a rich man’s tomb. \thc4 Matthew~27:57-61; John~19:38-42
+\tr \thc4 Jesus is resurrected from the dead and appears to many. \thc4 Matthew~28:1-15; Luke~24:1-49; John 20
+\tr \thc4 Jesus reveals the Trinity. \thc4 Matthew~28:19 (cf. Luke~3:22; John~14:26; John~15:26; Acts~2:33; II~Corintians~13:14)
+\tr \thc4 Jesus ascends into Heaven. \thc4 Mark~16:19; Luke~24:50-53; Acts~1:6-9
+\tr \thc4 Jesus will return to the same place He left. \thc4 Acts~1:10-11 (cf. Zechariah~14:1-5)
+\tr \thc4 The Holy Spirit is given to the Church on Pentecost. \thc4 Acts~2:1-4 (cf. Acts~1:1-5)
+\tr \thc4 The Early Church is filled with zeal and love for one another. \thc4 Acts~2:42-47
+\tr \thc4 The Church is the mystical Body of Christ, made of many members. \thc4 I~Corinthians~12:12-27
+\tr \thc4 The Gospel explicitly defined. \thc4 I~Corinthians~15:1-8
+\tr \thc4 Believers will be resurrected to inherit eternal life. \thc4 I~Corinthians~15:50-58 (cf. John~3:1-18; John~3:36; John~5:24)
+\tr \thc4 Everyone is wicked and in need of Jesus. \thc4 Romans~3:9-20, Romans~3:23; Isaiah~64:6; James~3:2
+\tr \thc4 Salvation is through faith alone. \thc4 Romans~3:21–5:21; Galatians~2:15–5:6; Ephesians~2:8-9
+\tr \thc4 Believers called to live holy lives. \thc4 I~Thessalonians~4:1-12
+\tr \thc4 Believers will be taken to Heaven by Jesus. \thc4 John~14:1-1-4; I~Thessalonians~4:16-18
+\tr \thc4 Jesus defeats the Devil and rules all nations. \thc4 Revelation~12:7-10; 19:11-16
+\tr \thc4 Jesus judges all men and unbelievers are destroyed. \thc4 Revelation~20:11-15
+\tr \thc4 A new heaven, new earth, and New Jerusalem. \thc4 Revelation~21:1-27 (cf. Isaiah~65:17; II~Peter~3:13)
 \tr \thc4 Jesus is coming soon, invitation to believe. \thc4 Revelation 22
 \ib
 \mte9 ~
 \periph Introduction
 \h0 Preface to the
-\h1 Literal Standard Version of the Bible
+\h1 Literal Standard Version
 \toc1 Preface
 \toca1 Preface to the Literal Standard Version
 \toc2 Preface
@@ -126,7 +126,7 @@
 \ip While Christians recognize the infallibility of the autographs, there is also necessary recognition that the original writings have been lost to history. What we now possess are manuscript copies or copies of copies of the originals. Some of these copies were made shortly after the originals and others were written many decades later. To complicate matters, there are distinct manuscript versions and text-types of the Old and New Testaments with minor discrepancies. For the Old Testament we must consider the distinctives between various manuscript versions such as the Masoretic Text (MT), Septuagint (LXX), Samaritan Pentateuch (SP), and Dead Sea Scrolls (DSS). And for the New Testament, translators compare the Alexandrian, Western, and Byzantine text-types.
 \ip The goal of any good translation is to produce a readable text that preserves the original autographic meaning and comes as close as possible to translating, word-for-word, manuscripts that accurately represent the original writings. It’s with this goal in mind that the Literal Standard Version (LSV) was written—a modern, yet literal English translation based upon the most prolific texts: the Masoretic Text (MT) for the Old Testament and the Textus Receptus (TR) and Majority Text (M) for the New. However, in certain, specific instances other manuscript versions and text-types are used where the evidence seems incontrovertible (e.g., the LXX and DSS in the Hebrew and Aramaic; the Alexandrian in the Greek).
 \ip While many may at first feel disoriented by the cacophony of textual questions, it should be stated with utmost certainty that one of the \iti many\iti* things that sets The Holy Bible apart as the unique and divinely inspired word of God is that the manuscript evidence for it is simply overwhelming. No other ancient text, religious or otherwise, has as much manuscript support as The Holy Bible. There are literally tens of thousands of papyri fragments, external citations, and complete copies of ancient manuscripts in the original languages and though there are minor variations, the texts, across all versions, are largely identical. Recent discoveries, such as the Dead Sea Scrolls, add further weight to the authenticity of the Scriptures and the accuracy of the translation-base from which we translate to English.
-\s6 Distinctive features of the Literal Standard Version of The Holy Bible:
+\s6 Distinctive features of the LSV:
 \ili0 ~•~~A modern, literal, word-for-word (formal equivalence) English translation of the Holy Scriptures utilizing English word rearrangement when necessitated for readability. The LSV is the most literal translation of The Holy Bible, with significant improvement over previous literal translations, including Robert Young’s excellent Young’s Literal Translation.
 \ili0 ~•~~Preservation of verb tenses wherever possible.
 \ili0 ~•~~Utilization of the transliterated Tetragrammaton in the Old Testament. All uppercase \nd Lord\nd* is used in the New Testament when a reference to \nd Yhwh\nd* is likely.
@@ -135,18 +135,18 @@
 \ili0 ~•~~Unlike most translations, justified typographic alignment consistent with the style of the original Hebrew, Aramaic, and Greek biblical autographs. The ancient caesura mark— \qac ǁ\qac* —is used for easy readability of poetic literature such as the Psalms.
 \ili0 ~•~~Inclusion of the verses found in older English translations such as the King James Version (KJV) that are not found in many modern translations; and inclusion of the alternative LXX Genesis chronology set next to the MT. These are contained within bolded double brackets for distinction.
 \ili0 ~•~~Capitalized pronouns and other nounal forms when referring to God, Christ, or the Holy Spirit. References to the Messenger of the \nd Lord\nd* are also capitalized when the subject appears to be a clear reference to God or the Messiah (as found in translations such as the NKJV).
-\s6 Why should we trust in The Holy Bible over other religious, historical, and scientific texts?
-\im The Holy Bible is the complete account of God’s revelation to mankind, telling the whole story of history from beginning to end. We can know with absolute certainty that the Bible is true because the Bible is God-breathed. In its original Hebrew, Aramaic, and Greek manuscripts it is inerrant and infallible. The true God spoke true words to fallible human beings (cf. II Timothy 3:16-17 and II Peter 1:20-21). Enabled by the Holy Spirit, they were moved to accurately record God’s message. But, understandably, that answer will not satisfy the skeptic. There are at least six key arguments that powerfully vouch for the Bible’s unique authenticity:
+\s6 Why should we trust in The Holy Bible?
+\im The Holy Bible is the complete account of God’s revelation to mankind, telling the whole story of history from beginning to end. We can know with absolute certainty that the Bible is true because the Bible is God-breathed. In its original Hebrew, Aramaic, and Greek manuscripts it is inerrant and infallible. The true God spoke true words to fallible human beings (cf. II~Timothy~3:16-17 and II~Peter~1:20-21). Enabled by the Holy Spirit, they were moved to accurately record God’s message. But, understandably, that answer will not satisfy the skeptic. There are at least six key arguments that powerfully vouch for the Bible’s unique authenticity:
 \ib
 \im 1. Every claim in the Bible that can be demonstrably tested has been verified. In other words, if we presently possess some scientific know-how, archaeological discovery, or corroborating text that can directly test a specific claim from the Bible, the claim has been verified. As a matter of fact, this truth has been a great source of humiliation for secular historians over the past several decades as discovery after discovery has proven the Bible true even after historians had said “it just can’t be.” Whether it be the fallen walls of Jericho, the reign of King Hezekiah, or even the existence of a Jewish temple, every bit of physical evidence that has turned up to answer the Bible’s claims has proven the Bible true.
 \ip 2. There are more ancient manuscripts of the Bible than any other ancient text. Furthermore, the discovery of the Dead Sea Scrolls in 1946/47 dealt a significant defeat to the theory of that generation’s textual critics. They taught that the Old Testament was composed much later than Jews and Christians believed and had undergone a significant evolution in content. Not only did the Dead Sea Scrolls disprove that claim, showing that the Old Testament we have today is equivalent to the one used by Christ and His disciples, but they also provided rock-solid evidence that numerous prophecies about Jesus Christ were written before He was born.
 \ip 3. The Bible contains self-verifying mathematical and thematic codes underlying the text. In recent years scholars have discovered numerous number patterns in the text in various books such as Genesis and the synoptic gospels, that would be impossible for humans to have developed on their own. There are similar thematic codes that testify to the Bible’s divine origins.
 \ip 4. Despite having been written over a period of 1,600 years by 40 different authors, the Bible forms a single metanarrative. It forms a continuous story with a clear beginning, ending, climax, protagonist, antagonist and complex, repeating themes that recur in almost every book. Yet its authors’ lives were separated by many centuries, occurring on three different continents and in several different ancient cultures. This incredible collection of history, poetry, prophecy, and letters forms a single, overarching story from beginning to end. The protagonist and antagonist show up at the beginning of the story, continue their parts throughout, and reach a climactic moment, culminating with a final showdown at the very end. Dozens of themes, symbols, and patterns recur through the entire text, from Genesis to Revelation. No other religious text can boast of such miraculous development.
-\ip 5. The Bible forms a doctrinal hologram. Typical religious texts are one or two-dimensional. If you take out a passage from the text the religion is fundamentally altered—removing key doctrines. It is like a painting on a canvas—mar a section of the picture and you can no longer see the whole. Strangely, the Bible is different. From a doctrinal perspective it forms something analogous to a three-dimensional hologram. You can remove any piece of a hologram, move to a different viewing angle and still see the whole. Doctrines revealed in the Bible are spread out across the entire book, like an interconnected web. This is strong evidence that the book’s underlying author intended His message to get through even if someone tampered with the text. This complex web or layering is hinted at in Isaiah 28: “...precept upon precept, line upon line, here a little, there a little.”
+\ip 5. The Bible forms a doctrinal hologram. Typical religious texts are one or two-dimensional. If you take out a passage from the text the religion is fundamentally altered—removing key doctrines. It is like a painting on a canvas—mar a section of the picture and you can no longer see the whole. Strangely, the Bible is different. From a doctrinal perspective it forms something analogous to a three-dimensional hologram. You can remove any piece of a hologram, move to a different viewing angle and still see the whole. Doctrines revealed in the Bible are spread out across the entire book, like an interconnected web. This is strong evidence that the book’s underlying author intended His message to get through even if someone tampered with the text. This complex web or layering is hinted at in Isaiah~28: “...precept upon precept, line upon line, here a little, there a little.”
 \ip 6. Prophecy is unique to the Bible and is its watermark of authenticity. Other religious texts contain “prophecy,” but unique to the Bible are very specific prophecies that can be demonstrably proven to have been written before the events occurred. Isaiah 53 is an important example. Written some 700 years before Jesus Christ was born, it correctly prophesied that He would come from humble origins, die as a substitutionary sacrifice for our sins, be buried in a rich man’s tomb, rise to life again, and be glorified. There are hundreds of other such prophecies.
 \mte9 ~
 \periph Preface to the Revised Edition of Young’s Literal Translation
-\h0 Preface to the Revised Edition of
+\h0 Preface to the Revised Edition
 \h1 Young’s Literal Translation
 \toc1 Preface to Young’s Revised Literal Translation
 \toca1 Preface to Young’s Revised Literal Translation
@@ -156,20 +156,20 @@
 \imt9 Preface to the Revised Edition of
 \imt3 Young’s Literal Translation
 \ie
-\im THE FOLLOWING TRANSLATION of the New Testament is based upon the belief that every word of the original is “God-breathed,” as the Apostle Paul says in his Second Epistle to Timothy, (chapter 3:16) That language is, indeed, applicable, in the first place, only to the Writings of the “Old Testament,” in which Timothy had been instructed, but as the Apostle Peter, in his Second Epistle, chapter 3:15-16, expressly ranks the “Epistles” of his beloved brother Paul along with “the other Scriptures,” as the “Gospels” and the “Acts” of the Apostles were undoubtedly written before the date of Peter’s writing, by men to whom the Saviour promised and gave the Holy Spirit, to \iti guide\iti* them to all truth, to teach them all things, and to \iti remind\iti* them of all things that Jesus said and did, there can be no reasonable ground for denying the inspiration of the New Testament by any one who holds that of the Old, or who is willing to take the plain unsophisticated meaning of God’s Word regarding either.
+\im \isb THE FOLLOWING TRANSLATION\isb* of the New Testament is based upon the belief that every word of the original is “God-breathed,” as the Apostle Paul says in his Second Epistle to Timothy, (chapter~3:16) That language is, indeed, applicable, in the first place, only to the Writings of the “Old Testament,” in which Timothy had been instructed, but as the Apostle Peter, in his Second Epistle, chapter~3:15-16, expressly ranks the “Epistles” of his beloved brother Paul along with “the other Scriptures,” as the “Gospels” and the “Acts” of the Apostles were undoubtedly written before the date of Peter’s writing, by men to whom the Saviour promised and gave the Holy Spirit, to \iti guide\iti* them to all truth, to teach them all things, and to \iti remind\iti* them of all things that Jesus said and did, there can be no reasonable ground for denying the inspiration of the New Testament by any one who holds that of the Old, or who is willing to take the plain unsophisticated meaning of God’s Word regarding either.
 \ip This inspiration extends only to the original text, \iti as it came from the pens of the writers\iti*, not to any translations ever made by man, however aged, venerable, or good; and only in so far as any of these adhere to the original—neither adding to nor omitting from it one particle—are they of any \iti real value\iti*, for, to the extent that they vary from the original, the doctrine of verbal inspiration is lost, so far as that version is concerned.
 \ip If a translation gives a \iti present tense\iti* when the original gives a \iti past\iti*, or a \iti past\iti* when it has a \iti present\iti*; a \iti perfect\iti* for a \iti future\iti*, or a \iti future\iti* for a \iti perfect\iti*; an \iti a\iti* for a \iti the\iti*, or a \iti the\iti* for an \iti a\iti*; an \iti imperative\iti* for a \iti subjunctive\iti*, or a \iti subjunctive\iti* for an \iti imperative\iti*; a \iti verb\iti* for a \iti noun\iti*, or a \iti noun\iti* for a \iti verb\iti*, it is clear that verbal inspiration is as much overlooked as if it had no existence. 
 \imt5 The Word of God is made void by the traditions of men.
 \im A \iti strictly literal\iti* rendering may not be so pleasant to the ear as one where the \iti apparent sense\iti* is chiefly aimed at, yet it is not \iti euphony\iti* but \iti truth\iti* that ought to be sought, and where in such a version as the one commonly in use in this country, there are scarcely \iti two consecutive verses\iti* where there is not some departure from the original such as those indicated, and where these variations may be counted by \iti tens of thousands\iti*, as admitted on all hands, it is difficult to see how verbal inspiration can be of the least practical use to those who depend upon that version alone.
 \ip Modern scholarship is beginning to be alive to the inconsistency of thus gratuitously obscuring, and really changing, the meaning, of the sacred writers by subjective notions of what they \iti ought\iti* to have written, rather than what they \iti did\iti* write, for if we admit that in a single case it can be lawful to render a \iti past\iti* tense by a \iti present\iti*, where shall we end? who is to be judge? if we do so in one passage, to bring out what may appear to us might, could, would, or should, be the Scriptural meaning, we cannot deny the same privilege to others who may twist other passages in like manner. The alteration of an \iti a\iti* for a \iti the\iti* may appear a small matter not worth speaking of, but an attentive comparison of the following Translation with the common one will discover numerous passages where the \iti entire force\iti* of the verse depends upon the insertion or non-insertion of the article.
-\ip For example, in Matthew 2:4, Herod is represented as enquiring “where Christ” should be born. But “Christ” is the surname of the man Jesus, who was quite unknown to Herod, who could not consequently ask for a person of whose existence he was ignorant. The true explanation is, that King James’ Translators omitted the definite article which occurs in the original. The correct translation is, where “the Christ” should be born. Herod knew of “\iti the\iti* Christ,” \iti the\iti* Messiah, \iti the\iti* long promised Saviour and King of the Jews, and his enquiry was, where He was to be born, whose kingdom was to be over all. The simple article clears up the whole. There are about \iti two thousand\iti* instances in the New Testament where these translators have thus omitted all notice of the definite article, not to say any thing of the great number of passages where they have \iti inserted\iti* it, though not in the original.
+\ip For example, in Matthew~2:4, Herod is represented as enquiring “where Christ” should be born. But “Christ” is the surname of the man Jesus, who was quite unknown to Herod, who could not consequently ask for a person of whose existence he was ignorant. The true explanation is, that King James’ Translators omitted the definite article which occurs in the original. The correct translation is, where “the Christ” should be born. Herod knew of “\iti the\iti* Christ,” \iti the\iti* Messiah, \iti the\iti* long promised Saviour and King of the Jews, and his enquiry was, where He was to be born, whose kingdom was to be over all. The simple article clears up the whole. There are about \iti two thousand\iti* instances in the New Testament where these translators have thus omitted all notice of the definite article, not to say any thing of the great number of passages where they have \iti inserted\iti* it, though not in the original.
 \ip The following translation need not, and ought not, to be considered, in any sense, as coming into competition with the Common Version, but as one to be used in connection with it, and as auxiliary to it; and not a few assurances have been received from clergymen and others that they thus use it, and find it at once interesting and profitable. The change of a single word, or collocation of words, is often found to throw an entirely new shade of meaning over the Scripture. This advantage is well known to all who have compared the various ancient versions, or even the English versions that successively formed what was popularly called “the authorized version,” i.e., Tyndale, Coverdale, Geneva, Bishops, etc.
 \ip The Greek Text followed is that generally recognized as the “Received Text,” not because it is thought perfect, but because the department of Translation is quite distinct from that of Textual Criticism, and few are qualified for both. If the original text be altered by a translator, (except he give his reasons for and against each emendation,) the reader is left in uncertainty whether the translation given is to be considered as that of the old or of the new reading. And, after all, the differences in sense to be found in the 100,000 various Greek readings are so trifling compared with those to be derived from an \iti exact\iti* translation of the Received Text, that the writer willingly leaves them to other hands; at the same time, it is contemplated, in a future edition, to give, in an Appendix, all the various readings of the Greek MSS. that are capable of being expressed in English.
 \ip With grateful thanks to the Father of Lights, this revised edition is presented to the friends of Divine Truth, with the hope that it may be a means, in the hands of the Divine Spirit, of quickening their faith, and encouraging their hearts, in the work of the Lord.
 \ipr \sig Robert Young\sig*
 \mte9 ~
-\periph Preface to Young’s First Edition
-\h0 Preface to the First Edition of
+\periph Preface to the First edition of Young’s Literal Translation
+\h0 Preface to the First Edition
 \h1 Young’s Literal Translation
 \toc1 Preface to Young’s Literal Translation
 \toca1 Preface to Young’s Literal Translation
@@ -204,11 +204,11 @@
 \im THE LITERAL STANDARD VERSION of The Holy Bible is a major revision of Young’s Literal Translation (YLT). It maintains many of Robert Young’s great contributions to the field of Bible translation and research. The relationship of the LSV to Young’s Literal Translation is similar to that of the English Standard Version (ESV) to the Revised Standard Version or the New King James Version (NKJV) and Modern English Version (MEV) to the KJV. Young’s Literal Translation was the most literal translation of The Holy Bible ever made into English up to this point for three key reasons: 1. Preservation of verb tenses, 2. Consistent word-for-word translation, and 3. General preservation of word order.
 \ip The LSV maintains the first two rules while having more flexibility with the third, which actually results in a more literal end-result. To understand why, you must first understand the nature of language. Language is a series of written and/or spoken words that convey meaning. Words \iti and\iti* meaning are inherent to the definition of language. Furthermore, words have meaning by themselves, but also when structured together. A word by itself contains meaning but has no context. As grand an undertaking as the YLT was, it suffered from overdependence on word order at the expense of readability. This begs the question: if word order is maintained, but a sentence is unreadable, is a translation truly made? Languages not only differ in alphabet, but also in word order and sentence structure. For instance, in the Latin languages “I love you” would be structured “You I love.” In the Germanic family it would be the former. In more complicated sentences, the differing word order can result in unintelligible translation if the word order is maintained. Since context and sentence structure are as vital to translation as capturing the proper meaning of each word, the translators of the LSV have used these three key principles in translation: 1. Preservation of verb tenses, 2. Consistent word-for-word translation, and 3. Preservation of word order when readability is unimpacted, but revised word order when necessary for readability.
 \ip The use of these three principles in combination with other LSV peculiarities \iti discussed below\iti* has resulted in the most literal translation of The Holy Bible into modern English, as well as the most distinctive.
-\imt5 Another translation, \em why?\em*
+\imt5 Another translation, \iem why?\iem*
 \im There have been a slew of new English translations in the past half-century, which may cause some to wonder why the need for another. The translators agree with the premise that different translations can serve different demographics and different reading levels to maximize exposure to God’s word. In this sense, the LSV is not a competitor to other excellent translations, but is complimentary. As the most literal modern English translation, the LSV is an excellent resource for deep and thoughtful Bible study and research, essentially an interlinear in terms of word-for-word translation, but arranged with English sentence structure. At the same time, some newer translations and revisions are twisting the Holy Scriptures in order to appease a postmodern, progressive, and secular readership. The LSV is a line in the sand against such perversion. Let God’s word speak on its own terms. The LSV has been translated to improve upon what has come before and to ensure that God’s word in English is passed along to the next generation.
 \imt5 The Name of God
 \im One of the first things a reader may notice about the LSV is the use of the transliterated Tetragrammaton (“\nd Yhwh\nd*”) instead of “\nd Lord\nd*.” This decision was made on the premise that God did in fact reveal His Name as \nd Yhwh\nd* to the Israelites of antiquity and many Scriptures emphasize the importance and sacredness of His Name. Replacing His actual Name with an English title does disservice to the Name and to the many Scriptures that emphasize the Name. At the same time, an impersonal title such as “\nd Lord\nd*” may cause the reader to view an ever-present and very personal God impersonally. We want the reader to recognize that God has indeed given us His Name and we must respect His decision. Moreover, while a handful of translations use a pronounceable name, we thought it best to recognize that none of these names are universally accepted in scholarship and the original unpointed Hebrew did not provide us with the vowels. \iti Yahweh\iti*, \iti Yehovah\iti*, and others, are mere suggestions based on differing bodies of research. While “Yahweh” or something of very similar pronunciation seems the most likely, or at least as close as we may come at the present time, we have chosen to use the transliterated Tetragrammaton because it is more than likely accurate, represents the original unpointed Name, and leaves it to the reader to respectfully and thoughtfully pronounce the Name according to the research they are more personally persuaded by. At the same time, we have opted to retain many Anglicized names, including the Name of God’s Son, \iti Jesus\iti*. Our reasons are threefold: \iti first\iti*, it is already a name and not a title; \iti second\iti*, the Name is in near-universal use in the English-speaking world; and \iti third\iti*, it is a close transliteration of the original Greek \iti Iesous\iti*.
-\imt5 Justified typographic alignment, the caesura mark, and other formatting peculiarities
+\imt5 Formatting peculiarities in the LSV
 \im The LSV may be the only English translation of The Holy Bible entirely formatted with justified typographic alignment throughout. This same format is maintained in poetic literature. While some readers may prefer paragraph breaks in narrative and line breaks in poetic portions for the purpose of readability, it was the decision of the translators to mimic the style of the original Hebrew, Aramaic, and Greek autographs in presenting God’s word as a continuous text block. This decision wasn’t arbitrary. In formatting the text this way, the LSV sets itself against the modern push for more and more formatting within the text, in favor of simplicity. Furthermore, the modern trend even extended to differentiating the words of Christ in red letters, as if God’s word should be divided in such a way. The LSV is the polar opposite, regarding the entirety of Scripture as God-breathed, with its different genres of literature resting on a level playing field.
 \ip In summary, this formatting decision was made to mimic the style of the original autographs, elevate the entirety of Scripture as God-breathed, exclude the possibility of formatting passages in a way contrary to the author’s intended delivery, and finally: it was made for ease of sharing in an era where digital reading is as common as reading from paper. Whether it be a printed copy, an eBook, an app, or some other format, the LSV is the easiest translation to copy and share ever made. In addition, justified typographic alignment throughout reduces the overall length of the printed and digital editions by a substantial margin, offering considerable cost savings to publishers and distributors seeking to get God’s word into as many hands as possible.
 \ip Like alignment, the LSV adopts a more ancient approach to handle quotations. Recent translations continue the trend of deeply-nested quotation marks, which many readers find confusing. The original biblical autographs contained no punctuation denoting the opening or closing of a quotation, whereas many modern translations use alternating double quotes (“ ”) and single quotes (‘ ’) to nest quotes two, three, or even four levels deep. The LSV utilizes a middle approach between modern translations and the older English translations like the KJV, which didn’t use quotation marks at all. The LSV uses double quotes to denote the outermost quotation within a single chapter (similar to recent translations), and a capitalized opening word of a nested quote (similar to the King James Version). This lends itself to a simpler, more elegant, and easier-to-follow text.
@@ -236,8 +236,8 @@
 \ip It would be needless to refer to special passages in elucidation or vindication of this principle essential to the proper understanding of the Sacred Text, as every page of this Translation affords abundant examples. It is only what common country people do in this land at the present day, and what not a few of the most popular writers in England aim at and accomplish—placing themselves and their readers in the times and places of the circumstances related.
 \ip This principle of translation has long been admitted by the best Biblical Expositors in reference to the \iti Prophetic Delineation\iti* of Gospel times, but it is equally applicable and necessary to the historical narratives of Genesis, Ruth, etc.
 \ib
-\im \ibd II.\ibd* The Hebrew writers often express the \iti certainty of a thing taking place\iti* by putting it in the \iti past\iti* tense, though the actual fulfillment may not take place for ages. This is easily understood and appreciated when the language is used by God, as when He says, in Genesis 15:18, “Unto thy seed \iti I have given\iti* this land;” and in 17:4, “I, lo, My covenant \iti is\iti* with thee, and \iti thou hast become\iti* a father of a multitude of nations.”
-\ip The same thing is found in Genesis 23:11, where Ephron answers Abraham: “Nay, my lord, hear me; the field \iti I have given\iti* to thee, and the cave that is in it; to thee \iti I have given\iti* it; before the eyes of the sons of my people \iti I have given\iti* it to thee; bury thy dead.” And again in Abraham’s answer to Ephron: “Only—if thou wouldst hear me—\iti I have given\iti* the money of the field; accept from me, and I bury my dead there.” Again in II Kings 5:6, the King of Syria, writing to the King of Israel, says: “Lo, I have sent unto thee Naaman, my servant, and \iti thou hast recovered him\iti* from his leprosy,”—considering the King of Israel as his servant, a mere expression of the master’s purpose is sufficient. In Judges 8:19, Gideon says to Zebah and Zalmunnah, “If ye had kept them alive, \iti I had not slain you.\iti*” So in Deuteronomy 31:18, “For all the evils that \iti they have done\iti*”—shall have done.
+\im \ibd II.\ibd* The Hebrew writers often express the \iti certainty of a thing taking place\iti* by putting it in the \iti past\iti* tense, though the actual fulfillment may not take place for ages. This is easily understood and appreciated when the language is used by God, as when He says, in Genesis~15:18, “Unto thy seed \iti I have given\iti* this land;” and in 17:4, “I, lo, My covenant \iti is\iti* with thee, and \iti thou hast become\iti* a father of a multitude of nations.”
+\ip The same thing is found in Genesis~23:11, where Ephron answers Abraham: “Nay, my lord, hear me; the field \iti I have given\iti* to thee, and the cave that is in it; to thee \iti I have given\iti* it; before the eyes of the sons of my people \iti I have given\iti* it to thee; bury thy dead.” And again in Abraham’s answer to Ephron: “Only—if thou wouldst hear me—\iti I have given\iti* the money of the field; accept from me, and I bury my dead there.” Again in II~Kings~5:6, the King of Syria, writing to the King of Israel, says: “Lo, I have sent unto thee Naaman, my servant, and \iti thou hast recovered him\iti* from his leprosy,”—considering the King of Israel as his servant, a mere expression of the master’s purpose is sufficient. In Judges~8:19, Gideon says to Zebah and Zalmunnah, “If ye had kept them alive, \iti I had not slain you.\iti*” So in Deuteronomy~31:18, “For all the evils that \iti they have done\iti*”—shall have done.
 \ip It would be easy to multiply examples, but the above may suffice for the present. Some of these forms of expression are preceded by the conjunction “\iti and\iti*” (waw, in Hebrew), and a very common opinion has been that the conjunction in these cases has a \iti conversive power\iti*, and that the verb is not to be translated \iti past\iti* (though so in grammatical form), but \iti future\iti*. This is, of course, only an \iti evasion \iti*of the supposed difficulty, not a \iti solution\iti*, and requires to be supported by the equally untenable hypothesis that a (so-called) \iti future\iti* tense, when preceded by the same conjunction \iti waw\iti* (“and,”) often becomes a past. Notwithstanding these two converting hypotheses, there are numerous passages which have no conjunction before them, which can only be explained by the principle stated above.
 \ib
 \im \ibd III.\ibd* The Hebrew writers are accustomed to express laws, commands, etc., in four ways:
@@ -250,18 +250,18 @@
 \im The three preceding particulars embrace all that appears necessary for the Reader to bear in mind in reference to the Style of the New Translation. In the Supplementary “Concise Critical Commentary,” which is now in the course of being issued, abundant proofs and illustrations will be found adduced at length.
 \imt5 The Battle of the Hebrew Tenses.
 \im The uncertain state of Hebrew criticism in reference to the Tenses is so fully exhibited in the following extracts from one of the latest, and in some respects one of the best, grammatical Commentaries (by the Rev. J. A. Alexander, of Princeton, New Jersey), on the Book of Isaiah, that the reader’s attention to them is specially requested.
-\ip On Isaiah 5:13, Prof. A. remarks: ‘Luther, Gesenius, and Hendewerk take [the verb] as a future, which is not to be assumed without necessity. Most recent writers evade the difficulty by rendering it in the present tense. The only natural construction is the old one (Septuagint, Vulgate, Vitringa, Barnes), which gives the preterite its proper meaning, and either supposes the future to be here, \iti as often elsewhere\iti*, spoken of as already past,’ etc.
+\ip On Isaiah~5:13, Prof. A. remarks: ‘Luther, Gesenius, and Hendewerk take [the verb] as a future, which is not to be assumed without necessity. Most recent writers evade the difficulty by rendering it in the present tense. The only natural construction is the old one (Septuagint, Vulgate, Vitringa, Barnes), which gives the preterite its proper meaning, and either supposes the future to be here, \iti as often elsewhere\iti*, spoken of as already past,’ etc.
 \im0 [This principle, though admitted and maintained by Gesenius, Lee, etc. has never been acted upon, to any extent, by any Translator till the present. It is the only principle, however, that can carry us through every difficulty in the Sacred Scriptures.]
-\ip On Isaiah 5:25, ‘The future form given to the verbs by Clericus is altogether arbitrary. Most of the later writers follow Luther in translating them as presents. But, if this verse is not descriptive of the past, as distinguished from the present and the future, the Hebrew language is incapable of making any such distinction.’
+\ip On Isaiah~5:25, ‘The future form given to the verbs by Clericus is altogether arbitrary. Most of the later writers follow Luther in translating them as presents. But, if this verse is not descriptive of the past, as distinguished from the present and the future, the Hebrew language is incapable of making any such distinction.’
 \im0 [Let this principle be carried out, as it ought to be, and nine-tenths of the common critical works on the Bible are rendered perfectly useless, and positively injurious.]
-\ip On Isaiah 5:26, ‘Here, as in verse 25, the older writers understand the verbs as future, but the later ones as present. The verbs in the last clause have waw prefixed, but its conversive power commonly depends upon a future verb preceding, which is wanting here.’
+\ip On Isaiah~5:26, ‘Here, as in verse 25, the older writers understand the verbs as future, but the later ones as present. The verbs in the last clause have waw prefixed, but its conversive power commonly depends upon a future verb preceding, which is wanting here.’
 \im0 [And so it is in dozens of places where Prof. A. follows in the usual wake of critics.]
-\ip On Isaiah 5:27, ‘The English Version follows Calvin in translating all the verbs as \iti future\iti*. The Vulgate supplies the present in the first clause, and makes the others future. But as the whole is evidently one description, the translation should be uniform, and as the preterite and future forms are intermingled, both \iti seem\iti* to be here used for the \iti present\iti*, which is given by Luther, and most of the late writers.’
+\ip On Isaiah~5:27, ‘The English Version follows Calvin in translating all the verbs as \iti future\iti*. The Vulgate supplies the present in the first clause, and makes the others future. But as the whole is evidently one description, the translation should be uniform, and as the preterite and future forms are intermingled, both \iti seem\iti* to be here used for the \iti present\iti*, which is given by Luther, and most of the late writers.’
 \im0 [Here, leaving all certainty and settled principles behind him, Prof. A. tells us how he thinks the inspired writer ought to have written, not what he did write.]
 \ip On chap. 8:2, ‘The Vulgate takes the verb as a \iti preterite\iti*, and Gesenius, Maurer, Knobel read accordingly with waw conversive. The Septuagint, Targum, and Peshito make it \iti imperative\iti*, and Hitzig accordingly. Gesenius formerly preferred an indirect or \iti subjunctive\iti* construction, which is still retained by Henderson.’
 \im0 [Here are \iti four\iti* ancient versions and, \iti five\iti* modern critics at fives and sixes regarding what is as simple as can well be imagined!]
 \ip On chap. 9:7, ‘Another false antithesis is that between the verbs, referring one to \iti past\iti* time, and the other to the future. This is adopted even by Ewald, but according to the usage of the language [rather of modern Hebrew grammar], \iti Waw\iti* is conversive of the preterite only when preceded by a future, expressed or \iti implied\iti*.’
-\im0 [By this very extraordinary rule the critic can never have any difficulty, for it is very easy to consider a verbal form implied when it suits his convenience! Yet this egregious absurdity is very commonly adopted in all existing translations, including the Common English Version; e.g., Genesis 9:12-14, where the Hebrew Text has four verbs all in the past tense, yet the first is translated as a present (‘I do set’), and the remaining three as futures! The first verb is undoubtedly in the past, ‘I have set,’ the other three as undoubtedly, seeing the Waw by which they are preceded cannot be conversive, except when preceded by a future or an imperative, neither of which occur in this place. The solution of the supposed difficulty is only to be found in the principle stated above by Prof. A., and which is the basis of the New Translation, and maintained by Gesenius and Lee, that the Hebrews were in the habit of using the past to denote the certainty of an event taking place.]
+\im0 [By this very extraordinary rule the critic can never have any difficulty, for it is very easy to consider a verbal form implied when it suits his convenience! Yet this egregious absurdity is very commonly adopted in all existing translations, including the Common English Version; e.g., Genesis~9:12-14, where the Hebrew Text has four verbs all in the past tense, yet the first is translated as a present (‘I do set’), and the remaining three as futures! The first verb is undoubtedly in the past, ‘I have set,’ the other three as undoubtedly, seeing the Waw by which they are preceded cannot be conversive, except when preceded by a future or an imperative, neither of which occur in this place. The solution of the supposed difficulty is only to be found in the principle stated above by Prof. A., and which is the basis of the New Translation, and maintained by Gesenius and Lee, that the Hebrews were in the habit of using the past to denote the certainty of an event taking place.]
 \ip On chap. 9:19, ‘Ewald refers the first clause to the past, and the second to the present. Umbreit the first to the present, and the second to the future. But the very intermingling of the past and the future forms shows that the whole was meant to be descriptive.’
 \im0 [Would they not be descriptive had they been all past, or all present, or all future?]
 \ip On chap. 10:14, ‘The \iti present\iti* form, which Hendewerk adopts throughout the verses, is equally grammatical,’
@@ -272,14 +272,14 @@
 \im The Hebrew has only two tenses, which, for want of better terms, may be called \iti Past\iti* and \iti Present\iti*.
 \ip The \iti past\iti* is either perfect or imperfect, e.g., ‘I \iti lived\iti* in this house five years,’ or ‘I \iti have lived\iti* in this house five years;’ this distinction may and can only be known by the context, which must in all cases be viewed from the writer’s standing-point.
 \ip In \iti every\iti* other instance of its occurrence, it points out either:
-\ili0 \ibd 1.\ibd* \iti A gentle imperative\iti*, e.g., “Lo, I have sent unto thee Naaman my servant, and thou \iti hast\iti* recovered him from his leprosy;” see also Zechariah 1:3, etc.; or
+\ili0 \ibd 1.\ibd* \iti A gentle imperative\iti*, e.g., “Lo, I have sent unto thee Naaman my servant, and thou \iti hast\iti* recovered him from his leprosy;” see also Zechariah~1:3, etc.; or
 \ili0 \ibd 2.\ibd* \iti A fixed determination\iti* that a certain thing shall be done, e.g., “Nay, my lord, hear me, the field \iti I have given\iti* to thee, and the cave that is in it; to thee \iti I have given\iti* it; before the eyes of the sons of my people \iti I have given\iti* it to thee; bury thy dead;” and in the answer, “Only—if thou wouldst hear me—\iti I have given\iti* the money of the field.”
 \ip The \iti present\iti* tense—as in the Modern Arabic, Syriac, and Amharic, the only living remains of the Semitic languages—besides its proper use, is used rhetorically for the future, there being no grammatical form to distinguish them; this, however, causes no more difficulty than it does in English, Turkish, Greek, Sanskrit, etc., the usages of which may be seen in the Extracts from the principal grammarians.
 \ip In \iti every\iti* other instance of its occurrence, it points out \iti an imperative\iti*, not so gently as when a preterite is used for this purpose, nor so stern as when the regular imperative form is employed, but more like the infinitive, Thou art \iti to write\iti* no more; thou \iti mayest\iti* write no more.
 \ip The present participle differs from the present tense just in the same manner and to the same extent as “I am writing, or, I am a writer,” does from, “I write, or, I do write.”
 \im The above view of the Hebrew tenses is equally applicable to all the Semitic languages, including the Ancient and Modern Arabic, the Ancient and Modern Syriac, the Ancient and Modern Ethiopic, the Samaritan, the Chaldee, and the Rabbinical Hebrew—not one of which is admitted to have the Waw Conversive.
 \ip It may be added, that all the \iti Teutonic\iti* languages—fourteen in number—agree with the \iti Semitic\iti* in rejecting a future tense; the futurity of an event being indicated either by auxiliary verbs, adverbs, and other particles, or by the context.
-\imt5 Analysis of the Verbs in Genesis 9:12-15.
+\imt5 Analysis of the Verbs in Genesis~9:12-15.
 \iq0 \iqt 12 “And God saith, This is the token of the covenant that I am making between Me and you, and every living creature that is with you, for generations age-during; 13 My bow I have given in the cloud, and it hath been for a token of a covenant between Me and the earth; 14 and it hath come to pass, in My sending a cloud over the earth, that the bow hath been seen in the cloud, 15 and I have remembered My covenant, that is between Me and you, and every living creature of all flesh, and the waters become no more a deluge to destroy all flesh.”\iqt*
 \ib
 \ili0 \iti Verse\iti* 12. And God saith.] The present tense is used, according to the almost universal custom of the Hebrews, etc., to bring up the narrative to the present time. The conjunction \iti and\iti* has no special or logical significance, but is used simply to break the abruptness of the opening sentence, as the Hebrews scarcely ever allow a verb in the present or past tense to commence a sentence, especially in prose, without some other word preceding it; the only other way would have been to put the nominative before the verb, but this, though occasionally used, is not agreeable to Hebrew taste.
@@ -299,49 +299,49 @@
 \im \iti The objections to this doctrine may be summed up in four particulars\iti*:
 \ili0 \ibd 1.\ibd* It is insufficient to explain the many thousands of passages in the Hebrew Bible where a \iti past\iti* tense is preceded neither by a \iti future\iti* nor by an \iti imperative\iti*, yet where it is “converted” in the Common English Bible, and with as much propriety as in any of those instances that are supposed to be indisputable: e.g.
 \ib
-\im1 Genesis 3:12, “This (is) the token of the covenant that I am making between Me and you ... my bow \iti I have set\iti* in the cloud, and it \iti hath become\iti* the token of the covenant ... and it \iti hath come to pass\iti* ... and it \iti hath been seen\iti* ... and I have remembered ... and the waters do no more,” etc.
+\im1 Genesis~3:12, “This (is) the token of the covenant that I am making between Me and you ... my bow \iti I have set\iti* in the cloud, and it \iti hath become\iti* the token of the covenant ... and it \iti hath come to pass\iti* ... and it \iti hath been seen\iti* ... and I have remembered ... and the waters do no more,” etc.
 \ib
-\im1 Genesis 17:4, “Lo, My covenant (is) with thee, and \iti thou hast become\iti* the father of a multitude of nations.” The true solution of the principle involved in these passages is: That the Hebrews were in the habit of expressing \iti the certainty of an action taking place\iti* by putting it in the past tense (see particularly Genesis 23:11, \iti “I have given ... I have given ... I have given;”\iti* also in verse 13, \iti “I have given”\iti* ), taking its fulfilment for granted.
+\im1 Genesis~17:4, “Lo, My covenant (is) with thee, and \iti thou hast become\iti* the father of a multitude of nations.” The true solution of the principle involved in these passages is: That the Hebrews were in the habit of expressing \iti the certainty of an action taking place\iti* by putting it in the past tense (see particularly Genesis~23:11, \iti “I have given ... I have given ... I have given;”\iti* also in verse 13, \iti “I have given”\iti* ), taking its fulfilment for granted.
 \ib
 \ili0 \ibd 2.\ibd* It leads to results rather startling, viz. that most, if not all, of the Hebrew particles are conversive! Grammarians have already been driven to admit, or rather assert, that \iti az\iti* then, and \iti terem\iti* not yet, are conversive as well as \iti waw\iti*.
 \ip1 But the list might be enlarged with such as the following:
 \rem Table |name="waw3"|cols="4"|
 \tr \thc6 Where \thc6 Term \thc6 Meaning \thc6 Example
-\tr \thc4 I Kings 10:22 \thc5 ahath \thc4 once \thc4 ‘once in three years cometh.’
-\tr \thc4 Numbers 3:23 \thc5 ahari \thc4 behind \thc4 ‘behind they do encamp westward.’
-\tr \thc4 Judges 5:8 \thc5 im \thc4 not \thc4 ‘there is not seen.’
-\tr \thc4 Judges 5:29 \thc5 aph \thc4 yea \thc4 ‘yea, she returneth.’
-\tr \thc4 Genesis 6:4 \thc5 asher \thc4 when \thc4 ‘when they come in.’
-\tr \thc4 Deuteronomy 12:30 \thc5 aicah \thc4 how? \thc4 ‘how do they serve?’
-\tr \thc4 Ezekiel 21:32 \thc5 gam \thc4 also \thc4 ‘this also hath not been.’
-\tr \thc4 I Samuel 21:14 \thc5 hinneh \thc4 lo \thc4 ‘lo, you see the man is mad.’
-\tr \thc4 Exodus 18:15 \thc5 ki \thc4 because \thc4 ‘because the people come unto me.’
-\tr \thc4 Exodus 1:12 \thc5 ken \thc4 so \thc4 ‘so they multiply.’
-\tr \thc4 Genesis 32:26 \thc5 ki im \thc4 except \thc4 ‘except thou hast blessed me.’
-\tr \thc4 Ruth 2:13 \thc5 lo \thc4 not \thc4 ‘and I—I am not as one.’
-\tr \thc4 I Samuel 21:14 \thc5 lamah \thc4 why? \thc4 ‘why do ye bring him unto me?’
-\tr \thc4 I Samuel 19:24 \thc5 al ken \thc4 therefore \thc4 ‘therefore they say.’
-\tr \thc4 Joshua 9:8 \thc5 me-ayin \thc4 whence? \thc4 ‘whence come ye?’
-\tr \thc4 Genesis 37:12 \thc5 ma \thc4 what? \thc4 ‘what dost thou seek?’
-\tr \thc4 Genesis 21:7 \thc5 mi \thc4 who? \thc4 ‘who hath said?’
+\tr \thc4 I~Kings~10:22 \thc5 ahath \thc4 once \thc4 ‘once in three years cometh.’
+\tr \thc4 Numbers~3:23 \thc5 ahari \thc4 behind \thc4 ‘behind they do encamp westward.’
+\tr \thc4 Judges~5:8 \thc5 im \thc4 not \thc4 ‘there is not seen.’
+\tr \thc4 Judges~5:29 \thc5 aph \thc4 yea \thc4 ‘yea, she returneth.’
+\tr \thc4 Genesis~6:4 \thc5 asher \thc4 when \thc4 ‘when they come in.’
+\tr \thc4 Deuteronomy~12:30 \thc5 aicah \thc4 how? \thc4 ‘how do they serve?’
+\tr \thc4 Ezekiel~21:32 \thc5 gam \thc4 also \thc4 ‘this also hath not been.’
+\tr \thc4 I~Samuel~21:14 \thc5 hinneh \thc4 lo \thc4 ‘lo, you see the man is mad.’
+\tr \thc4 Exodus~18:15 \thc5 ki \thc4 because \thc4 ‘because the people come unto me.’
+\tr \thc4 Exodus~1:12 \thc5 ken \thc4 so \thc4 ‘so they multiply.’
+\tr \thc4 Genesis~32:26 \thc5 ki im \thc4 except \thc4 ‘except thou hast blessed me.’
+\tr \thc4 Ruth~2:13 \thc5 lo \thc4 not \thc4 ‘and I—I am not as one.’
+\tr \thc4 I~Samuel~21:14 \thc5 lamah \thc4 why? \thc4 ‘why do ye bring him unto me?’
+\tr \thc4 I~Samuel~19:24 \thc5 al ken \thc4 therefore \thc4 ‘therefore they say.’
+\tr \thc4 Joshua~9:8 \thc5 me-ayin \thc4 whence? \thc4 ‘whence come ye?’
+\tr \thc4 Genesis~37:12 \thc5 ma \thc4 what? \thc4 ‘what dost thou seek?’
+\tr \thc4 Genesis~21:7 \thc5 mi \thc4 who? \thc4 ‘who hath said?’
 \b
 \im This is only a small specimen of what might be adduced. It is not too much to say that the above \iti twenty\iti* particles (including \iti az\iti*, \iti waw\iti*, and \iti terem\iti*) might be doubled, if not tripled, in number.
 \ib
 \ili0 \ibd 3.\ibd* It requires us to admit that the form \iti yiqtol\iti* is essentially a future tense, while from the analogy of the Modern and Ancient Arabic, as well as from its use in the following passages (which might easily be multiplied), it is evidently an indefinite present, expressive of habitual action, which may very naturally be viewed as being or continuing in operation at some period afterwards as well as at present.
 \rem Table |name="Words2"|cols="3"|
-\tr \thc4 Genesis 2:10 \thc5 yippared \thc4 it is parted.
-\tr \thc4 Genesis 2:19 \thc5 yikra \thc4 he calleth
-\tr \thc4 Genesis 6:4 \thc5 yavou \thc4 they come in.
-\tr \thc4 Genesis 10:9 \thc5 yeamar \thc4 it is said.
-\tr \thc4 Genesis 31:39 \thc5 ahattenah \thc4 I repay it.
-\tr \thc4 Genesis 31:39 \thc5 tevakshenah \thc4 thou dost seek it.
-\tr \thc4 I Samuel 13:17 \thc5 yiphneh \thc4 he turneth.
-\tr \thc4 I Samuel 14:47 \thc5 yarshia \thc4 he vexeth.
-\tr \thc4 I Samuel 21:14 \thc5 taviu do ye bring;
-\tr \thc4 I Samuel 21:14 \thc5 tiru \thc4 you see.
-\tr \thc4 Isaiah 1:11 \thc5 yomar \thc4 he saith.
-\tr \thc4 Job 3:11 \thc5 amuth \thc4 do I die.
-\tr \thc4 Job 3:3 \thc5 ivvaled \thc4 I am born.
+\tr \thc4 Genesis~2:10 \thc5 yippared \thc4 it is parted.
+\tr \thc4 Genesis~2:19 \thc5 yikra \thc4 he calleth
+\tr \thc4 Genesis~6:4 \thc5 yavou \thc4 they come in.
+\tr \thc4 Genesis~10:9 \thc5 yeamar \thc4 it is said.
+\tr \thc4 Genesis~31:39 \thc5 ahattenah \thc4 I repay it.
+\tr \thc4 Genesis~31:39 \thc5 tevakshenah \thc4 thou dost seek it.
+\tr \thc4 I~Samuel~13:17 \thc5 yiphneh \thc4 he turneth.
+\tr \thc4 I~Samuel~14:47 \thc5 yarshia \thc4 he vexeth.
+\tr \thc4 I~Samuel~21:14 \thc5 taviu do ye bring;
+\tr \thc4 I~Samuel~21:14 \thc5 tiru \thc4 you see.
+\tr \thc4 Isaiah~1:11 \thc5 yomar \thc4 he saith.
+\tr \thc4 Job~3:11 \thc5 amuth \thc4 do I die.
+\tr \thc4 Job~3:3 \thc5 ivvaled \thc4 I am born.
 \b
 \im None of these passages can with any propriety be regarded as expressive of future action; and there seems no rational way of solving the problem but by regarding the tense as is done above.
 \ib
@@ -351,13 +351,16 @@
 \ib
 \iq \ord 4\ord* \wh אני הנה בריתי אתך והיית לאב המון גוים\wh*
 \iq \ord 5\ord* \wh ולא יקרא עוד את שמך אברם והיה\wh*
-\iq \wh שמך אברהם כי אב המון גוים נתתיך ׃\wh*—[Genesis~17:4-5~Allepo~Codex.]
+\iq \wh שמך אברהם כי אב המון גוים נתתיך ׃\wh*
+\iq —[Genesis~17:4-5~Allepo~Codex.]
 \ib
-\iq “As for Me behold, My covenant [is] with thee, and thou SHALT be a father of many nations; neither shall thy name any more be called Abram, but thy name shall be Abraham, for a father of many nations HAVE I made thee.” —[Genesis~17:4-5~1769~Common~Version.]
+\iq “As for Me behold, My covenant [is] with thee, and thou SHALT be a father of many nations; neither shall thy name any more be called Abram, but thy name shall be Abraham, for a father of many nations HAVE I made thee.”
+\iq —[Genesis~17:4-5~1769~Common~Version.]
 \ib
-\iq “I—lo, My covenant [is] with thee, and thou HAST become a father of a multitude of nations, and thy name is no more called Abram, but thy name hath been Abraham, for a father of a multitude of nations HAVE I made thee.”—[Genesis~17:4-5~1885~Revised~Version.]
+\iq “I—lo, My covenant [is] with thee, and thou HAST become a father of a multitude of nations, and thy name is no more called Abram, but thy name hath been Abraham, for a father of a multitude of nations HAVE I made thee.”
+\iq —[Genesis~17:4-5~1885~Young’s Literal Translation.]
 \ib
-\im It is the first and the last of the verbs in the above verses to which the reader’s attention is specially requested, viz, those translated in the Common Version, “Thou \iti shalt\iti* be,” and “I \iti have\iti* made,” and in the Revised Version, “Thou \iti hast\iti* become,” and “I \iti have\iti* made.” Both Versions agree in translating the last verb as a preterite, “I \iti have\iti* made;” as the form of the verb is admitted on all hands to be that of a preterite.
+\im It is the first and the last of the verbs in the above verses to which the reader’s attention is specially requested, viz, those translated in the Common Version, “Thou \iti shalt\iti* be,” and “I \iti have\iti* made,” and in Young’s Literal Translation, “Thou \iti hast\iti* become,” and “I \iti have\iti* made.” Both Versions agree in translating the last verb as a preterite, “I \iti have\iti* made;” as the form of the verb is admitted on all hands to be that of a preterite.
 \ip The versions differ, however, in the translation of the first verb, the one rendering it by the future “shall,” the other by the preterite “hast.”
 \ip The question at issue is: Which of the two is right? \iti Both\iti* cannot be right—one \iti must\iti* be wrong.
 \ip It is undoubtedly in the preterite form, precisely like the last verb in the sentence, admitted on all hands to be a preterite. Why then should this not be translated as a preterite likewise ?
@@ -397,17 +400,17 @@
 \im \ibd Modern Arabic.\ibd* FARIS EL-SHIDIAC writes: “The form for the \iti future\iti* of the verb is also applicable for the \iti present\iti*. The modern Arabs, therefore, make it a real \iti present\iti* by joining it to some other word. Thus \iti howa yaktuba\iti*, signifies \iti he writes\iti*, or \iti he will write\iti*. But \iti howa ammal yaktuba\iti*, has the single signification of \iti he is writing\iti*. “Although in the classical Arabic there are two particles, \iti sa\iti* and \iti saufa\iti* employed to confine the verb to the future, they are very seldom used in ordinary books.”—\iti Grammar\iti*, p. 38.
 \ib
 \im \ibd Ancient Syriac.\ibd* HOFFMAN writes: “\iti Praet\iti*. pro Fut. in sermonibus \iti propheticis, asseverationibus\iti*, vel in expectatione interdum, sed multo rarius, quam in Hebraicis libris usurpatur (Praet. \iti propheticum\iti*), ita ut viva loquentis imaginatione id, quod futurum est, tanquam praeteritum aut certe praesens fingatur; e.g., Esther 9:1, Genesis 17:20; Genesis 40:14, Job 19:27, John 5:24.
-\rem Aramaic -- HOFFMAN writes: ??Preet?? for future tense in prophetic discourses, assertions, or in expectation, sometimes, but much more rarely, than in the Hebrew books (Eccl. propheticum), so that in the living imagination of the speaker that which is to come, as if it were past or certainly the present is imagined; e.g., Esther 9:1, Genesis 17:20; Genesis 40:14, Job 19:27, John 5:24
-\ip “Praet. pro \iti Imper\iti*. ut quamquam non omnino prohibitum, tamen in uno fere verbo \iti hewo\iti* vulgare est, idque in sermonibus tum affirmantibus tum negantibus, praecipue ubi cum Adject. aut Partic. conjunctum legitur, ut Matthew 5:25; 6:7, Mark 5:34; 13:37, Luke 10:37; Luke 11:2; Luke 13:14, Romans 12:9-14, 16, I Corinthians 11:24; I Corinthians 14:20, Ephesians 4:32, Titus 3:1, I John 4:1.
-\ip “Praet. pro \iti Fut. exacto\iti* poni, non singulare putarim, quia hoc tempus praeteriti notionem certo includit; ita in his sententiis hypotheticis, Deuteronomy 4:30, I Samuel 10:2.
-\ip The \iti future\iti* is used: “pro \iti praes\iti*. neque tamen tam crebro, quam in Hebraico sermone, e.g. I Samuel 1:8, Ephr. 1:119, f., Genesis 4:15, Es. 43:17.
-\ip “Fut. Syriaco ea quoque indicantur, quae Romani \iti praes\iti*. conjunct, designant; itaque \iti a\iti*) \iti Optativus\iti*, ut Psalm 7:10, Song of Songs 7:9, 1Reg. 17:21, deinde \iti b\iti*) Germanorum formulae loquendi verbo quodam auxiliari (\iti mogen, durfer, konnen, sollen\iti*), effectae, ut Psalm 7:10, Es. 19:12; 47:13. Esdr. 19:14 Genesis 2:16; 3:2; 30:31, Judges 14:16, Proverbs 20:9, Non minus \iti c\iti*) \iti Imper\iti*. hoc tempore signatur, quid? quod in praeceptis ad aliquid prohibendum datis, cum Imper. \iti prohibitive\iti* usurpari nequeat (section 132, 1), vulgo eo utuntur, e.g., Genesis 46:3, Exodus 20:13-17, Ruth 1:20.”—\iti Grammar\iti*, p. 332-336.
+\rem translation \ibd Aramaic\ibd* HOFFMAN writes: ??Preet?? for future tense in prophetic discourses, assertions, or in expectation, sometimes, but much more rarely, than in the Hebrew books (Eccl. propheticum), so that in the living imagination of the speaker that which is to come, as if it were past or certainly the present is imagined; e.g., Esther 9:1, Genesis 17:20; Genesis 40:14, Job 19:27, John 5:24
+\ip “Praet. pro \iti Imper\iti*. ut quamquam non omnino prohibitum, tamen in uno fere verbo \iti hewo\iti* vulgare est, idque in sermonibus tum affirmantibus tum negantibus, praecipue ubi cum Adject. aut Partic. conjunctum legitur, ut Matthew 5:25; 6:7, Mark 5:34; 13:37, Luke 10:37; Luke 11:2; Luke 13:14, Romans 12:9-14, 16, I~Corinthians 11:24; I~Corinthians 14:20, Ephesians 4:32, Titus 3:1, I~John 4:1.
+\ip “Praet. pro \iti Fut. exacto\iti* poni, non singulare putarim, quia hoc tempus praeteriti notionem certo includit; ita in his sententiis hypotheticis, Deuteronomy 4:30, I~Samuel 10:2.
+\ip The \iti future\iti* is used: “pro \iti praes\iti*. neque tamen tam crebro, quam in Hebraico sermone, e.g. I~Samuel 1:8, Ephr. 1:119, f., Genesis 4:15, Es. 43:17.
+\ip “Fut. Syriaco ea quoque indicantur, quae Romani \iti praes\iti*. conjunct, designant; itaque \iti a\iti*) \iti Optativus\iti*, ut Psalm 7:10, Song of Songs 7:9, I~Kings~17:21, deinde \iti b\iti*) Germanorum formulae loquendi verbo quodam auxiliari (\iti mogen, durfer, konnen, sollen\iti*), effectae, ut Psalm 7:10, Es. 19:12; 47:13. Esdr. 19:14 Genesis 2:16; 3:2; 30:31, Judges 14:16, Proverbs 20:9, Non minus \iti c\iti*) \iti Imper\iti*. hoc tempore signatur, quid? quod in praeceptis ad aliquid prohibendum datis, cum Imper. \iti prohibitive\iti* usurpari nequeat (section 132, 1), vulgo eo utuntur, e.g., Genesis 46:3, Exodus 20:13-17, Ruth 1:20.”—\iti Grammar\iti*, p. 332-336.
 \ib
 \im UHLEMANN writes: “The \iti past\iti* designates the \iti present\iti* tense a) in \iti prophecies, asseverations\iti*, and the like, which are viewed as already fulfilled and accomplished.
 \p“The \iti future\iti* stands for ... the \iti present\iti*, although more rarely than in Hebrew.
 \ip “The \iti preterite\iti* also stands for the \iti imperative\iti*.”—Grammar, p. 171-177.
 \ib
-\im \ibd Modern Syriac.\ibd* STODDART writes.—“\iti Present tense\iti*. This is sometimes used ... as a \iti future\iti*, ‘we are going after a month;’ so in Genesis 6:17, where in the modern language we have the \iti present\iti* tense, and in the ancient the active participle. “\iti Preterite tense\iti*.—1) Used as a \iti present\iti*: e.g., a man in distress says; ‘\iti I died\iti*, i.e., I am dead; \iti I choked\iti*, i.e., I am choked, or I am drowned.’ A boy in recitation, if confused, will say ‘\iti it lost on me\iti*,’ i.e., I have lost it. Ask a man how his business is today, and he may reply, ‘It remained [remains] just so.’ Persons coming to make a petition will tell us, ‘we poured (i.e., we now place) our hope on you.’ Compare Ancient Syriac, (Hoff. P 129, 4.b.c.) (Compare also Psalm 1:1, in the Ancient and Modern.
+\im \ibd Modern Syrian.\ibd* STODDART writes.—“\iti Present tense\iti*. This is sometimes used ... as a \iti future\iti*, ‘we are going after a month;’ so in Genesis 6:17, where in the modern language we have the \iti present\iti* tense, and in the ancient the active participle. “\iti Preterite tense\iti*.—1) Used as a \iti present\iti*: e.g., a man in distress says; ‘\iti I died\iti*, i.e., I am dead; \iti I choked\iti*, i.e., I am choked, or I am drowned.’ A boy in recitation, if confused, will say ‘\iti it lost on me\iti*,’ i.e., I have lost it. Ask a man how his business is today, and he may reply, ‘It remained [remains] just so.’ Persons coming to make a petition will tell us, ‘we poured (i.e., we now place) our hope on you.’ Compare Ancient Syriac, (Hoff. P 129, 4.b.c.) (Compare also Psalm 1:1, in the Ancient and Modern.
 \ip “4) As a \iti future\iti*, e.g., if you died tomorrow, you perished; if you believe, Christ just now (i.e., at this moment) received [will receive] you;’ this is no doubt an emphatic future. Compare Nordh. P 966. 1,c.
 \ip “5) As a \iti subjunctive present\iti*. ... Many of the idioms mentioned above give force and vivacity to the language. We are thus allowed to speak of events and actions which are present or future, though definite, or future and contingent, as if they had actually transpired and were recorded in the past. On this account the preterite is often used in Hebrew in the language of prophecy.
 \ip “It is not strange that these different idioms lead to ambiguity, which no acquaintance with the language will fully remove; e.g., [a certain given phrase] may be translated, ‘our sweet voices let us all raise; \iti or\iti* we do all raise, \iti or\iti* we will all raise.’ The perplexity thus caused, however, is as nothing compared with the puzzling expressions we often find in Hebrew.”—\iti Grammar\iti*, p. 158-164.
